@@ -22,3 +22,9 @@ There are two kinds of data files, one includes comments and one includes video 
 * comment_text
 * likes
 * replies
+
+
+We have already performed EDA on this dataset and now we are going to perform EDA on this dataset. 
+And now we are going to apply regression on this dataset to answer this question.
+
+#### **How can we predict the number of views from the number of likes,dislikes,comments?**
